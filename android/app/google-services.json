@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "105451553393",
+    "firebase_url": "https://pokdex-feba9-default-rtdb.firebaseio.com",
+    "project_id": "pokdex-feba9",
+    "storage_bucket": "pokdex-feba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105451553393:android:481b0d0484b54db0b451d0",
+        "android_client_info": {
+          "package_name": "com.example.pokdex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105451553393-0hb9alaeo62tqaopiq5isaq3cfghrlh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCddXJxgK5-K0Uw1y7F2j8jBnH9dC2mZxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105451553393-0hb9alaeo62tqaopiq5isaq3cfghrlh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
